@@ -1,1 +1,1 @@
-# created readme for react app .
+# this is a react app created by DIWAKAR CHURaSIYa
